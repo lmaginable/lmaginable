@@ -23,4 +23,4 @@ textextext
   </table>
    <br>
          <br>
-<img src="https://file.garden/amGbPXSgVTH7NKTK/Untitled68_20260723091756.png" width="260" align="right">
+<img src="https://file.garden/amGbPXSgVTH7NKTK/Untitled68_20260723091756.png" width="260" align="center">
