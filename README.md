@@ -19,3 +19,14 @@
       </td>
     </tr>
 
+ <br>
+  <br>
+  <table>
+    <tr>
+      <td>   
+${\textsf{\color{#bc4dcd} ive }}$  ${\textsf{\color{#dfcce5} been }}$ ${\textsf{\color{#834dbe} picking }}$ scabs ${\textsf{\color{#dfcce5} again }}$
+      </td>
+    </tr>
+  </table>
+   <br>
+<img src="https://files.catbox.moe/f0pmcg.png" width="270" align="left">
