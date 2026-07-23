@@ -1,7 +1,5 @@
 
 <img src="https://file.garden/amGbPXSgVTH7NKTK/tumblr_8969dfe88fd99d2efbf2d32f64955f8b_f8e877cd_2048.png" width="350" align="center"> 
-<br>
-    <br>
          <br> 
              <br>
   <table>
