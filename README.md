@@ -1,30 +1,30 @@
- ![](https://komarev.com/ghpvc/?username=lmaginable&color=232323&label=hi)
- 
-<img src="https://file.garden/amGbPXSgVTH7NKTK/Untitled69_20260723093224.png" width="260" align="left">
-<img src="https://file.garden/amGbPXSgVTH7NKTK/Untitled68_20260723091751.png" width="280" align="center"> 
-         <br> 
-             <br>
+<html>
+<body>
+<div align="center">
+<img src="https://file.garden/amGbPXSgVTH7NKTK/Untitled70_20260723101629.png" width="760" height="21">
+<img src="https://file.garden/amGbPXSgVTH7NKTK/28574c512334183989966cca38fd0fc9.png" align="left" width="460">
   <table>
-    <tr>
-      <td>   
-textextexttextextexteyryetetxettxtxtx
-      </td>
-    </tr>
+  <tr>
+    <th>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+     $\color{c49927}\normalsize{\texttt{text}}$ <br>
+    </th>
+  </tr>
   </table>
-<br>
- 
-hooooooooolllyyy teeextxttt 
-aaaaaaaaaaaahghhhh
-
- <br>
-  <br>
-  <table>
-    <tr>
-      <td>   
-textextexttextextexteyryetetxettxtxtx
-      </td>
-    </tr>
+   <table>
+  <tr>
+    <th>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+      $\color{c49927}\normalsize{\texttt{text}}$ <br>
+     $\color{c49927}\normalsize{\texttt{text}}$ <br>
+    </th>
+  </tr>
   </table>
-   <br>
-         <br>
-<img src="https://file.garden/amGbPXSgVTH7NKTK/Untitled68_20260723091756.png" width="280" align="center">
+<img src="https://file.garden/amGbPXSgVTH7NKTK/Untitled70_20260723101629.png" width="760" height="21">
